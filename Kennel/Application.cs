@@ -26,6 +26,8 @@ namespace Kennel
             Console.WriteLine("  Please select  ");
             Console.WriteLine("---------------------");
             Console.WriteLine("F: Finished");
+            Console.WriteLine("P: Add Customer");
+            Console.WriteLine("A: Add pet");
             Console.WriteLine("C: Add Claw cutting");
             Console.WriteLine("W: Add Washing");
             Console.WriteLine("Q: Quit Program");
